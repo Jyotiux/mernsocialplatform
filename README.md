@@ -132,8 +132,8 @@ SocialMediaPlatform/
 │   └── ...
 └── social_frontend/
     ├── src/
-    │   ├── components/
-    │   │   └── CreatePost.js
+    │   ├── CreatePost.js
+    │   ├── Home.js
     │   ├── App.js
     │   └── ...
     ├── package.json
